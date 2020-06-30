@@ -1,0 +1,16 @@
+{
+"companyName": "C&L",
+"productName": "Paper In The Wind",
+"productVersion": "0.1",
+"dataUrl": "PaperInTheWind.data.unityweb",
+"wasmCodeUrl": "PaperInTheWind.wasm.code.unityweb",
+"wasmFrameworkUrl": "PaperInTheWind.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
